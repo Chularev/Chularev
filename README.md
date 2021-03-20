@@ -5,9 +5,9 @@
 Название | Описание  | Библиотеки 
 --- | --- | --- 
 [least_square_method](https://github.com/Chularev/least_square_method) | Программа для сглаживания показаний, снятых с приборов учета нефтепродуктов, методом наименьших квадратов. |  С++, QT, библиотека qcustomplot (для постарения графиков) 
-[kaggle_competitions](https://github.com/Chularev/kaggle_competitions) | Сборный репозиторий с участием в соревнованиях kaggle (пока что он почти пустой :smile: |
+[kaggle_competitions](https://github.com/Chularev/kaggle_competitions) | Сборный репозиторий с участием в соревнованиях kaggle (пока что он почти пустой :smile: | python
 [video_compensation](https://github.com/Chularev/video_compensation) | Поиск движения в видео потоки формата YUV и вычисление разности между текущим кадром и следующим. Используется для сжатия видео, часть кодека.  | C++
-[yandex_practice](https://github.com/Chularev/video_compensation) | Портфолио по DS  | python
+[yandex_practice](https://github.com/Chularev/yandex_practice) | Портфолио по DS  | python
 
 <!--
 **Chularev/Chularev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
